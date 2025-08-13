@@ -1,0 +1,28 @@
+# Global owners - these users will be requested for review when someone opens a pull request
+* @jbricenoz
+
+# Core architecture and base components
+/src/core/ @jbricenoz
+/src/components/base/ @jbricenoz
+
+# Test files and configurations
+/tests/ @jbricenoz
+/playwright.config.ts @jbricenoz
+
+# Documentation
+/ARCHITECTURE.md @jbricenoz
+/README.md @jbricenoz
+
+# Package and configuration files
+/package.json @jbricenoz
+/tsconfig.json @jbricenoz
+
+# Models and data layer
+/src/models/ @jbricenoz
+/src/data/ @jbricenoz
+
+# Services and automation
+/src/services/ @jbricenoz
+
+# Main components
+/src/components/ @jbricenoz 
